@@ -1,4 +1,4 @@
-# Assignment1-SO-114
+# Assignment1-SO-114 (PROJECT 2)
 
 - NAMA : LISA ARIEF 
 - NIM : 1313618033
