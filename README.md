@@ -1,6 +1,6 @@
 # Assignment1-SO-114 (PROJECT 2)
 
-latest submission (Wed May 26 18:31:08 WIB 2021)
+latest submission (Wed, May 26 2021)
 
 - NAMA : LISA ARIEF 
 - NIM : 1313618033
